@@ -1,0 +1,19 @@
+As a Worker in e.g. Interior UP, I should be able to easily find the registration form, so I can find a job
+As a Worker in e.g. Interior UP, I should be able to easily fill in registration form, with minimal values needed, so I can find the best match job:
+    Name - text box (Hindi)
+    Gender - dropdown (Hindi)
+    Age - dropdown/counter (18 to 60)
+    Job/Role - Autocomplete, multi-select (Hindi?) - https://www.teamlease.com/jobs-by-roles
+    Current location - (Hint - GPS?)
+    Telephone Number - (10 digit) - validate w/ OTP
+    Last wage - Rs XX,XXX / month (Hindi, numeric only)
+    Preference - 
+        Job/Role - Select 1+ of above (optional)
+        Expected Wage - Rs YY,YYY (Hindi, default above)
+        Family - 
+        Location - select from Delhi, Mumbai, Chennai, Hyderabad, Gurgaon, Noida, Pune, Ahmedabad, Others?
+As a Worker registered on Platform, I should receive a notification (SMS?) contain Employer Name, Location, Job/Role, Callback number; when someone shows interest.
+
+Optional:
+- Can we connect families, so that we can match or at least indicate, and they can find remote work together?
+- Can we send notification (SMS?) w/ URLs, with custom list of employers who’s requirements and offer (?) match my preferences
